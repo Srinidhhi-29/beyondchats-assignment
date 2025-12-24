@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+dist/
+
+# Laravel
+/vendor
+.env
+/storage/*.key
+/database/*.sqlite
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
